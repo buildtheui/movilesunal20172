@@ -1,3 +1,3 @@
-# TicTacToe Friends
-play online android UN dispositivos moviles 2017
+# Dispositivos moviles 2017
+play online android UN
 

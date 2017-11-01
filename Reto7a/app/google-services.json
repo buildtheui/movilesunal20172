@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "463521352644",
+    "firebase_url": "https://reto7amoviles.firebaseio.com",
+    "project_id": "reto7amoviles",
+    "storage_bucket": "reto7amoviles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463521352644:android:552808557e5633c0",
+        "android_client_info": {
+          "package_name": "com.reto7aFM"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463521352644-ephf1487h0ltvpqv4pjcmvggqi8jriia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reto7aFM",
+            "certificate_hash": "819c5dc767af50149b88555e66440f6fd1a19018"
+          }
+        },
+        {
+          "client_id": "463521352644-1e8ihuiq91jrkf636firvtlsscdp5r16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0VXwSsJzhWtQv2bwCuF1zzFwj5inaX5c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463521352644-1e8ihuiq91jrkf636firvtlsscdp5r16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

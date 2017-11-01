@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Reto7a</string>
+    <string name="start_a_game">Comenzar juego</string>
+    <string name="join_a_game">Unirse a juego</string>
+    <string name="tic_tac_toe_friends">Juega en linea</string>
+    <string name="share_this_code_with_a_friend_and_ask_to_join_the_game">Compartir el codigo</string>
+    <string name="waiting_for_your_friend_to_join_the_game">Esperando que el contrincante se una a la partida.</string>
+    <string name="enter_code_below_to_join_the_game">Ingresa el código para unirte al juego</string>
+    <string name="join">Unirme</string>
+</resources>

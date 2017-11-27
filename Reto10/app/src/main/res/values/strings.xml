@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Reto10</string>
+    <string name="action_settings">Settings</string>
+    <string name="type_prompt">Escoge una categoria</string>
+
+    <string-array name="countries">
+        <item>VENEZUELA</item>
+        <item>ESTADOS UNIDOS</item>
+        <item>ESPAÑA</item>
+        <item>ECUADOR</item>
+        <item>CANADA</item>
+        <item>CHILE</item>
+        <item>REINO UNIDO</item>
+        <item>ARGENTINA</item>
+        <item>FRANCIA</item>
+        <item>PANAMA</item>
+        <item>MEXICO</item>
+    </string-array>
+</resources>
